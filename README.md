@@ -4,5 +4,6 @@ Google was founded in 1996 and published its first version in 1998. There is a w
 
 Also, I enjoyed learning web developing with [Kodluyoruz & Patika](https://app.patika.dev/paths). I'd say check their content out.
 
-Here is the home page looking:
+Here is the homepage looking:
+
 ![Google!](img/home.png)
